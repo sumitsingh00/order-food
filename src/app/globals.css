@@ -3,4 +3,26 @@
 @tailwind utilities;
 
 
+.input-wrapper{
+    margin: 10px;
 
+}
+.input-fields{
+    width: 200px;
+    height: 30px;
+
+}
+.button{
+    width: 200px;
+    height: 30px;
+}
+.container{
+    text-align: center;
+}
+.button-link{
+    border:0px;
+    cursor: pointer;
+    background-color: transparent;
+    color: rgb(0, 76, 255);
+    margin: 20px;
+}
